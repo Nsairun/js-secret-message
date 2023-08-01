@@ -1,5 +1,5 @@
-## HEADING
--SECRET-MESSAGE
+## Context: -SECRET-MESSAGE
+
 -this is a project about a secret-message
 
 ## ABOUT
@@ -38,4 +38,4 @@ Knowledge about:
 - GitHub: [@Nsairun][def]
 
 
-[def]: https://github.com/Nsairun/js-secret-message.git
+-[def]: https://github.com/Nsairun/js-secret-message.git
