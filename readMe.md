@@ -1,8 +1,8 @@
-SECRET-MESSAGE
-this is a project about a blog-template
+context: SECRET-MESSAGE
+this is a project about a secret-message
 
 ABOUT
--This is a java script project  given as an assignment to test our skills on HTML, CSS and Java Script to be able to build an app with java script to be able to encrypt a secret message. 
+-This is a java script project given as an assignment to test our skills on HTML, CSS and Java Script to be able to build an app with java script to be able to encrypt a secret message.
 
 App
 ! home page
