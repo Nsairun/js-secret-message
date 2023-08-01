@@ -8,7 +8,7 @@ btn.addEventListener('click', function () {
   secretMessage()
 })
 
-function secretMessage() {
+function secretMessage () {
   const str = input.value
   const normalizedInput = str.replace(/[^\w]/g, '').toLowerCase()
   const strLength = normalizedInput.length
