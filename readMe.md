@@ -1,4 +1,5 @@
-## SECRET-MESSAGE
+## HEADING
+-SECRET-MESSAGE
 -this is a project about a secret-message
 
 ## ABOUT
@@ -34,4 +35,7 @@ Knowledge about:
 ## Author
 
  **Nsairin**
-- GitHub: [@Nsairun](https://github.com/Nsairun/js-secret-message.git)
+- GitHub: [@Nsairun][def]
+
+
+[def]: https://github.com/Nsairun/js-secret-message.git
