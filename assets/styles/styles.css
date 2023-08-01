@@ -55,6 +55,7 @@
     color: #fdf8f8;
     max-width: 45vw;
     border-style: dotted solid #000;
+    word-break: break-all;
   }
   
   .p {
