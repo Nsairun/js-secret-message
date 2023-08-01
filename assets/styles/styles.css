@@ -1,66 +1,65 @@
 .page-content {
-    margin-top: 1%;
-  }
-  
-  .container {
-    max-width: 550px;
-    margin: auto;
-    padding: 5px 25px 17px;
-    background-color: #f578036e;
-  }
-  
-  .container1 {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-  }
-  
-  .heading {
-    text-align: center;
-    font-size: 25px;
-    font-weight: bold;
-    padding-bottom: 10px;
-    letter-spacing: 5px;
-    font-family: cursive;
-  }
-  
-  textarea {
-    border: 1px solid #808080;
-    border-radius: 5px;
-    padding: 20px;
-    font-size: 16px;
-    font-weight: bold;
-  }
-  
-  button {
-    border: none;
-    background-color: #e6e4d594;
-    color: #0f0f0fea;
-    padding: 18px;
-    font-size: 17px;
-    font-weight: bold;
-    width: 30%;
-    margin: auto;
-  }
-  
-  .rec1,
-  .encoded,
-  .rec2 {
-    margin-top: 10px;
-    padding: 50px 20px;
-    background-color: #0a0a0aee;
-    font-size: 21px;
-    color: #fdf8f8;
-    max-width: 45vw;
-    border-style: dotted solid #000;
-    word-break: break-all;
-  }
-  
-  .p {
-    font-size: 23px;
-    text-align: center;
-    font-weight: bold;
-  }
-  
+  margin-top: 1%;
+}
+
+.container {
+  max-width: 550px;
+  margin: auto;
+  padding: 5px 25px 17px;
+  background-color: #f578036e;
+}
+
+.container1 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.heading {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  letter-spacing: 5px;
+  font-family: cursive;
+}
+
+textarea {
+  border: 1px solid #808080;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+button {
+  border: none;
+  background-color: #e6e4d594;
+  color: #0f0f0fea;
+  padding: 18px;
+  font-size: 17px;
+  font-weight: bold;
+  width: 30%;
+  margin: auto;
+}
+
+.rec1,
+.encoded,
+.rec2 {
+  margin-top: 10px;
+  padding: 50px 20px;
+  background-color: #0a0a0aee;
+  font-size: 21px;
+  color: #fdf8f8;
+  max-width: 45vw;
+  border-style: dotted solid #000;
+  word-break: break-all;
+}
+
+.p {
+  font-size: 23px;
+  text-align: center;
+  font-weight: bold;
+}
