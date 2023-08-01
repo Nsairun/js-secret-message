@@ -22,15 +22,15 @@ function secretMessage() {
   } else {
     for (let i = 0; i < cols; i++) {
       for (let j = i; j < strLength; j += cols) {
-        encodeMessage += normalizedInput[j];
-        encode += normalizedInput[j];
+        encodeMessage += normalizedInput[j]
+        encode += normalizedInput[j]
       }
-      encodeMessage += '\n';
+      encodeMessage += '\n'
     }
 
-    div1.innerHTML = `${normalizedInput}`;
-    div2.innerHTML = `${encodeMessage} `;
-    div3.innerHTML = `${encode}`;
+    div1.innerHTML = `${normalizedInput}`
+    div2.innerHTML = `${encodeMessage} `
+    div3.innerHTML = `${encode}`
   }
-  console.log(normalizedInput);
+  console.log(normalizedInput)
 }
